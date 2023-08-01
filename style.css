@@ -1,0 +1,79 @@
+.body{
+    height: 100%;
+    margin: 0;
+}
+.bg{
+    background-image: url("rio2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-attachment: fixed;
+}
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin: 0 15px;
+}
+nav{
+display: flex;
+justify-content: space-between;
+}
+.Titulo{
+    font-weight: 400;
+    font-size: 64px;
+
+}
+.sub{
+    font-weight: 100;
+    font-size: 40px;
+}
+.Foto{
+ width: 200px;
+ size: 400px;
+ margin-bottom: 100px;
+ overflow: hidden;
+ border-radius: 50%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-position: 100%;
+}
+.Conteudo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.body{
+    background-image: url(leonardo-marinho-n6zdsEq8I3g-unsplash.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+.Sp{
+    width: 200px;
+    size: 400px;
+    }
+  .Ba{
+    width: 200px;
+    size: 400px;
+  }
+.fg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Cas{
+    width: 200px;
+ size: 400px;
+
+}
+.Da{
+    display: flex;
+    blue; #0000ff; rgb(0%,0%,100%); hsl(240,100%,50%)
+
+ 
+    
